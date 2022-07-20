@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "251554399196",
+    "firebase_url": "https://createsocial-4819d-default-rtdb.firebaseio.com",
+    "project_id": "createsocial-4819d",
+    "storage_bucket": "createsocial-4819d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251554399196:android:e45b6122b15285aa1ac519",
+        "android_client_info": {
+          "package_name": "com.creationdriven.create_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251554399196-55gbfbbqla05q8k8qv6p2ev2upm9qtko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creationdriven.create_social",
+            "certificate_hash": "bfcc8b9e960d94437c9a534387b2b56726065ea5"
+          }
+        },
+        {
+          "client_id": "251554399196-8ieqdmv2kv2b1okim4eu7ngpcfblc46e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creationdriven.create_social",
+            "certificate_hash": "8648bb1721fe15e07ff79c3c6433891896a12bd3"
+          }
+        },
+        {
+          "client_id": "251554399196-ufqfcoanaoibagfa9jpg898qp09vbvs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creationdriven.create_social",
+            "certificate_hash": "4725e2d907c11f8347afb73634aa24c3ad8de140"
+          }
+        },
+        {
+          "client_id": "251554399196-tobntq1v8vigavgi36qso6564l5i3eq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnuw9z0_b-9l2iT4M0elMUmxqy-NqfrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251554399196-tobntq1v8vigavgi36qso6564l5i3eq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251554399196-du8505qq12kk9lu2293agnps5l4j2tq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creationdriven.createSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
